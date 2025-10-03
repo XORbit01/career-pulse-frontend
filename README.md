@@ -2,7 +2,7 @@
 
 > A modern, responsive job search platform that connects talented professionals with amazing opportunities
 
-![Career Pulse Preview](public/preview.png)
+![Career Pulse Preview](public/preview.jpg)
 
 <div align="center">
 
