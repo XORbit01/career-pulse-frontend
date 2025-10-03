@@ -31,7 +31,7 @@ Career Pulse is a comprehensive job search and recruitment platform designed to 
 ### 🏢 For Employers
 - 📋 **Job Posting** - Create and manage job listings effortlessly
 - 👥 **Candidate Management** - Review and manage applications
-- 🎯 **AI-Powered Matching** - Find the best candidates for your roles
+- 🎯 **Search Matching** - Find the best candidates for your roles
 - 📈 **Analytics Dashboard** - Track recruitment metrics and performance
 - 🏷️ **Company Branding** - Showcase your company culture and values
 - 💼 **Recruitment Tools** - Streamlined hiring process
