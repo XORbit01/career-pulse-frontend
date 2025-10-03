@@ -2,6 +2,8 @@
 
 > A modern, responsive job search platform that connects talented professionals with amazing opportunities
 
+![Career Pulse Preview](public/preview.png)
+
 [![React](https://img.shields.io/badge/React-18.3.1-blue?logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.4.1-purple?logo=vite)](https://vitejs.dev/)
