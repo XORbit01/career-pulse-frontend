@@ -252,16 +252,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Radix UI** - For accessible component primitives
 - **Community Contributors** - For their valuable contributions
 
-## 📞 Support
-
-- 📧 **Email**: support@careerpulse.com
-- 💬 **Discord**: [Join our community](https://discord.gg/careerpulse)
-- 📖 **Documentation**: [docs.careerpulse.com](https://docs.careerpulse.com)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/your-username/careerpulse-frontend/issues)
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the Career Pulse Team</p>
+  <p>Made with ❤️ by XORbit</p>
   <p>⭐ Star this repository if you found it helpful!</p>
 </div>
