@@ -250,15 +250,6 @@ Found a bug? Please create an issue with:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **React Team** - For the amazing framework
-- **Vite Team** - For the lightning-fast build tool
-- **Tailwind CSS** - For the utility-first CSS framework
-- **Radix UI** - For accessible component primitives
-- **Community Contributors** - For their valuable contributions
-
-
 ---
 
 <div align="center">
